@@ -1,1 +1,1 @@
-main: sh target/bin/main
+worker: java -jar sacty.broker-1.0-SNAPSHOT.jar
