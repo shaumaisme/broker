@@ -1,1 +1,1 @@
-worker: java -jar sacty.broker-1.0-SNAPSHOT.jar
+web: java -jar sacty.broker-1.0-SNAPSHOT.jar
